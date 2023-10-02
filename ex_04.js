@@ -1,0 +1,1 @@
+document.write("welcome to the javascript pool !<br/> Have some fun don't forget to bring a towel")
